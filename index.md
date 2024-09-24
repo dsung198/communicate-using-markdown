@@ -9,7 +9,23 @@ Intro intro words words
 
 [NIU STEAM]
 
+### Lists
 
+- This
+   - sub bullet
+   - another
+- is
+- a
+- list
+
+1. My
+2. Numbered
+3. List
+
+
+- [x] Task number 1
+- [ ] Task number 2
+ 
 ## Code Example
 
 ```
