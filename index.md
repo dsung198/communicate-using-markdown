@@ -8,5 +8,26 @@ Intro intro words words
 [NIU STEAM]
 
 [NIU STEAM]
+
+
+## Code Example
+
+```
+This text is *italic*.
+This text is **bold**.
+```
+
+This text is *italic*.  
+This text is **bold**.
+
+
+
+```latex
+\begin{equation}
+a^2+b^2=c^2
+\end{equation}
+```
+
+
 ### Header level 4
 text text
