@@ -5,7 +5,7 @@ Intro intro words words
 ## Subtitle
 
 ![image](https://github.com/user-attachments/assets/0651ce55-fb91-499f-8ef3-91187a52298a)
-[NIU STEAM]
+[NIU STEAM](https://niusteam.niu.edu/making-a-mascot-the-niu-huskie/)
 
 [NIU STEAM]
 
